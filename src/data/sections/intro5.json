@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Aprende a tocar",
+      "second": "tu instrumento favorito."
+    },
+    "content": "Todo esto, desde la comodidad de tu hogar.",
+    "image": "/img/img-music/img-01-udg.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Te contamos todos los secretos de la música.",
+    "content": "Profesores con amplia experiencia.",
+    "image": "/img/img-music/img02-udg.jpeg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Aprendizaje continuo",
+      "second": "Continúa aprendiendo."
+    },
+    "content": "Consulta los diferentes artículos que tenemos para tí.",
+    "image": "/img/img-music/img03-udg.jpeg"
+  }
+]
